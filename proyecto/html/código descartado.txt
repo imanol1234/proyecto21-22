@@ -1,0 +1,37 @@
+   <!--scrollspy-->
+    <div data-bs-spy="scroll" data-bs-offset="50" data-bs-target=".navbar">
+        <nav Class="navbar navbar-expand-sm bg-dark navbar-dark fixedtop">
+            <div Class="container-fluid">
+                <ul Class="navbar-item">
+                    <li Class="nav-item">
+                        <h1 CLass="spycolor">Información<h1>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+
+
+        <div id="section1" Class="container-fuild bg-success text-white spy">
+            <h1>¿Te gustan los tatuajes?</h1>
+            <p>A nosotros también, por eso hemos creado este lugar para que
+                puedas aprender y disfrutar de este hobby tan bonito
+            </p>
+        </div>
+        <div id="section2" Class="container-fuild bg-warning text-black spy">
+            <p>En esta página podrás disfrutar de cientos de tatuajes de diferentes
+                estilos, aprender los diferentes métodos que existen para tatuar y
+                resolver las dudas que tengas
+            </p>
+            <p>podrás ponerte en contacto con los tatuadores que decidan participar en este
+                proyecto y asistir a reuniones tanto online como presenciales
+            </p>
+        </div>
+        <div id="section3" Class="container-fuild bg-secondary text-white spy">
+            <p>Este sitio web está en proceso de creación, por lo tanto hay funciones</p>
+            <p> que todavía no están disponibles. Pedímos comprensión y paciencia mientras</p>
+            <p>trabajamos para hacer un espacio seguro y disfrutable para todo el mundo</p>
+            <p>interesando en el mundo del tatuaje</p>
+
+        </div>
+    </div>

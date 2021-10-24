@@ -1,0 +1,40 @@
+.colour{background-color:#A8BBB0 
+}
+
+.navbar{ background-color: #000000;
+}
+
+.d-block{width:100%
+}
+
+.jumbo{margin:10%; margin-top: 0%;  border: 7px outset #D01110 ; 
+}
+
+h1.canvas{color:white
+}
+
+.flecha{margin:50px
+}
+
+.logo{width:40px
+}
+
+.header{height:auto; width:auto; margin:5%
+}
+
+h1.header{text-align:center; color:#EBE8E0
+}
+
+.image{ background-image: url(../imagenes/header.jpg) ; height:100%; width:100%; background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.img{width:300; height: auto}
+
+h1.galery{text-align:center
+}
+
+p.galery{text-align:center
+}
+.jumbo2{margin:5%; margin-top: 0%;  border: 7px outset #D01110 ; 
+}
